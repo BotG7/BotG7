@@ -1,4 +1,4 @@
-## Hi there 👋
+## Guten Tag!🌚
 
 <!--
 **BotG7/BotG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
