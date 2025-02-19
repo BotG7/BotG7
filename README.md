@@ -1,5 +1,7 @@
 ## Guten Tag!🌚
-
+<div align="center">
+    <img src="https://farm5.staticflickr.com/4876/39891228293_13c532f352_o.gif" alt="Botty" width="500"/>
+</div>
 <!--
 **BotG7/BotG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
