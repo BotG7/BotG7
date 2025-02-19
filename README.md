@@ -1,5 +1,5 @@
 ## Guten Tag!🌚
-<div align="center">
+<div align="left">
     <img src="https://farm5.staticflickr.com/4876/39891228293_13c532f352_o.gif" alt="Botty" width="270"/>
 </div>
 <!--
